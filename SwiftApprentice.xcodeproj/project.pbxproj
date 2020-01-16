@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		575C41D923886F8E00330DF6 /* SwiftApprentice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftApprentice; sourceTree = BUILT_PRODUCTS_DIR; };
 		575C41DC23886F8E00330DF6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		575C41E32388704300330DF6 /* Chapter 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter 1.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				575C41DC23886F8E00330DF6 /* main.swift */,
+				575C41E32388704300330DF6 /* Chapter 1.playground */,
 			);
 			path = SwiftApprentice;
 			sourceTree = "<group>";
